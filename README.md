@@ -3,7 +3,7 @@ title:README
 author:"Jacob Yeung"
 output:github_document:
 html_preview: false
-
+---
 # Binomial Distribution
   
 The package "binomial" is a method to calculate the various attributes of a binomial distribution given parameters.
